@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-30T16:49:42-03:00\n"
+"PO-Revision-Date: 2023-06-30T16:49:42-03:00\n"
+"Language: \n"
+
+msgid "common.commaListSeparator"
+msgstr ";"
+
+msgid "announcement.announcements"
+msgstr "Notícias"
+
+msgid "announcement.announcementsHome"
+msgstr "Notícias"
+
+msgid "announcement.moreAnnouncements"
+msgstr "Mais notícias..."
+
+msgid "navigation.skip.announcements"
+msgstr "Pular para notícias"
+
+msgid "navigation.infoForReaders"
+msgstr "Passo a passo"
+
+msgid "navigation.infoForReaders.long"
+msgstr "Informações de passo a passo"
