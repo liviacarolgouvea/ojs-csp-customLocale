@@ -1,7 +1,16 @@
 msgid ""
 msgstr ""
-"Language: pt_BR\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: \n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2023-06-30T16:49:42-03:00\n"
+"POT-Creation-Date: 2023-06-30T16:49:42-03:00\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % 1000000 == 0) ? 1 : 2);\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
 
 msgid "user.givenName"
 msgstr "Nome"
@@ -12,5 +21,26 @@ msgstr "Endereço"
 msgid "user.url"
 msgstr "Endereço (link) do Currículo Lattes"
 
-msgid "manager.setup.metadata.source.description"
-msgstr "xxxy"
+msgid "plugins.generic.paperbuzz.metrics"
+msgstr "Altimétricas"
+
+msgid "common.commaListSeparator"
+msgstr ";"
+
+msgid "announcement.announcements"
+msgstr "Notícias"
+
+msgid "announcement.announcementsHome"
+msgstr "Notícias"
+
+msgid "announcement.moreAnnouncements"
+msgstr "Mais notícias..."
+
+msgid "navigation.skip.announcements"
+msgstr "Pular para notícias"
+
+msgid "navigation.infoForReaders"
+msgstr "Passo a passo"
+
+msgid "navigation.infoForReaders.long"
+msgstr "Informações de passo a passo"
