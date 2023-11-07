@@ -44,3 +44,12 @@ msgstr "Passo a passo"
 
 msgid "navigation.infoForReaders.long"
 msgstr "Informações de passo a passo"
+
+msgid "user.affiliation.description"
+msgstr "Caso seja um grupo, não é necessário preencher este campo"
+
+msgid "user.biography"
+msgstr "Contribuição do autor no trabalho"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Fazer Submissão"

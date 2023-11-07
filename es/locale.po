@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Language: es\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0) ? 1 : 2);\n"
+
+msgid "user.affiliation.description"
+msgstr "Si es un grupo no es necesario rellenar este campo"
+
+msgid "user.biography"
+msgstr "Contribución del autor al trabajo"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Realizar un envío"

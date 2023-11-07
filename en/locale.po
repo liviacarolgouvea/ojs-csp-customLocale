@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "user.affiliation.description"
+msgstr "If it is a group, it is not necessary to fill in this field"
+
+msgid "user.biography"
+msgstr "Author's contribution to the work"
+
+msgid "user.login.registrationComplete.newSubmission"
+msgstr "Make a Submission"
