@@ -53,3 +53,12 @@ msgstr "Contribuição do autor no trabalho"
 
 msgid "user.login.registrationComplete.newSubmission"
 msgstr "Fazer Submissão"
+
+msgid "submission.upload.selectOptionalFileToRevise"
+msgstr "Você está incluindo uma nova versão?"
+
+msgid "submission.upload.uploadNewFile"
+msgstr "Não, este é um novo arquivo"
+
+msgid "submission.form.name"
+msgstr "Se necessário, altere o nome do arquivo"
