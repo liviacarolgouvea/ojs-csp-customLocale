@@ -54,6 +54,21 @@ msgstr "Contribuição do autor no trabalho"
 msgid "user.login.registrationComplete.newSubmission"
 msgstr "Fazer Submissão"
 
+msgid "submission.upload.selectOptionalFileToRevise"
+msgstr "Você está incluindo uma nova versão?"
+
+msgid "submission.upload.uploadNewFile"
+msgstr "Não, este é um novo arquivo"
+
+msgid "submission.form.name"
+msgstr "Se necessário, altere o nome do arquivo"
+
+msgid "mailable.decision.initialDecline.notifyAuthor.name"
+msgstr "Recusa Imediata"
+
+msgid "emails.submissionAck.subject"
+msgstr "[{$contextName}] Confirmação de submissão"
+
 msgid "emails.submissionAck.body"
 msgstr ""
 "Prezado(a) Dr(a). {$recipientName}:\n"
@@ -65,9 +80,23 @@ msgstr ""
 "\n"
 "Agradecemos por considerar Cadernos de Saúde Pública para a submissão do seu manuscrito.\n"
 "Atenciosamente,\n"
+"periódico {$contextName}. Para acompanhar o processo de avaliação do seu manuscrito, clique\n"
+"no link Sistema de Avaliação e Gerenciamento de Artigos/OJS ({$submissionUrl}). Em caso de dúvidas,\n"
+"envie suas questões por meio do nosso sistema, utilizando sempre o ID do manuscrito informado acima.\n"
+"Agradecemos por considerar {$contextName} para a submissão do seu manuscrito.\n"
+"\n"
+"Atenciosamente,\n"
+"\n"
 "Secretaria Editorial de CSP\n"
 "\n"
 "{$contextSignature}"
 
-msgid "emails.submissionAck.subject"
-msgstr "[{$contextName}] Confirmação de submissão"
+msgid "editor.review.thankReviewer"
+msgstr "Agradecer avaliador"
+
+msgid "editor.submissionReview.doubleAnonymous"
+msgstr "Avaliador Anônimo e Autor Anônimo"
+
+msgid "user.gossip"
+msgstr "Notas"
+
