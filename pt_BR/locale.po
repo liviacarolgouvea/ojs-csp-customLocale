@@ -100,3 +100,5 @@ msgstr "Avaliador Anônimo e Autor Anônimo"
 msgid "user.gossip"
 msgstr "Notas"
 
+msgid "common.confirm"
+msgstr "Encaminhar"
