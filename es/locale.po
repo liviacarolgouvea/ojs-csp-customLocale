@@ -11,3 +11,21 @@ msgstr "Contribución del autor al trabajo"
 
 msgid "user.login.registrationComplete.newSubmission"
 msgstr "Realizar un envío"
+
+msgid "submission.submit.includeInBrowse"
+msgstr "Incluya a este autor en el registro CSP"
+
+msgid "editor.submission.roundStatus.resubmitForReview"
+msgstr "Debe someterse a evaluación una nueva versión"
+
+msgid "reviewer.list.neverAssigned"
+msgstr "Disponible"
+
+msgid "editor.submission.roundStatus.pendingReviewers"
+msgstr "En espera de la evaluación del editor"
+
+msgid "plugins.generic.CspSubmission.agradecimentos"
+msgstr "Agradecimientos"
+
+msgid "plugins.generic.CspSubmission.agradecimentos.description"
+msgstr "Deje aquí sus agradecimientos"

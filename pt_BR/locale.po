@@ -105,3 +105,18 @@ msgstr "Encaminhar"
 
 msgid "submission.submit.whatNext.description"
 msgstr "O periódico foi notificado de sua submissão e uma mensagem de confirmação foi enviada para o seu e-mail cadastrado. Assim que a etapa de avaliação for concluída entraremos em contato."
+
+msgid "publication.contributors"
+msgstr "Colaboradores"
+
+msgid "submission.submit.includeInBrowse"
+msgstr "Inclua este autor no cadastro de CSP"
+
+msgid "editor.submission.roundStatus.submissionResubmitted"
+msgstr "Uma nova versão foi submetida para avaliação"
+
+msgid "editor.submission.roundStatus.resubmitForReview"
+msgstr "Uma nova versão deve ser submetida para avaliação"
+
+msgid "reviewer.list.neverAssigned"
+msgstr "Disponível"

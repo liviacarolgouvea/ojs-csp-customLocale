@@ -11,3 +11,21 @@ msgstr "Author's contribution to the work"
 
 msgid "user.login.registrationComplete.newSubmission"
 msgstr "Make a Submission"
+
+msgid "emails.submissionNeedsEditor.subject"
+msgstr "A new submission needs an editor to be assigned"
+
+msgid "submission.submit.includeInBrowse"
+msgstr "Include this author in the CSP register"
+
+msgid "editor.submission.roundStatus.resubmitForReview"
+msgstr "A new version must be  submitted for evaluation"
+
+msgid "reviewer.list.neverAssigned"
+msgstr "available"
+
+msgid "editor.submission.roundStatus.pendingReviewers"
+msgstr "Awaiting Editor's assessment"
+
+msgid "submission.acknowledge"
+msgstr "Acknowledgments"
